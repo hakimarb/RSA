@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1645089131 source:c:\users\kylian19\desktop\rsa\main.cpp
+	<iostream>
+	<string>
+	<cstdlib>
+	<cmath>
+	<sstream>
+
